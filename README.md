@@ -58,6 +58,6 @@ The app is no longer available on the Google Play Store. However, you can downlo
 
 ## Screenshots
 
-![Memgramm screenshot 1](./images/screenshot1.png)
-![Memgramm screenshot 2](./images/screenshot2.png)
-![Memgramm screenshot 3](./images/screenshot3.png)
+![Memgramm screenshot 1](./images/screenshot_1.png)
+![Memgramm screenshot 2](./images/screenshot_2.png)
+![Memgramm screenshot 3](./images/screenshot_3.png)
