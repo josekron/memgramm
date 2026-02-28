@@ -4,7 +4,7 @@
 
 Memgramm was a full-stack mobile application designed to help Spanish speakers improve their English proficiency using adaptive flashcard methodology. As the sole developer, I designed and implemented the entire system from frontend to backend, managing the complete development lifecycle including CI/CD integration.
 
-The app was available on Android and iOS via the Google Play Store and Apple App Store until early 2025, when it was discontinued due to bandwidth constraints.
+The app was available on Android via the Google Play Store until early 2025, when it was discontinued due to bandwidth constraints.
 
 ## Overview
 
