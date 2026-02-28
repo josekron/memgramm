@@ -52,7 +52,7 @@ Memgramm's core value proposition was making English learning accessible, engagi
 
 I documented the entire development process, motivations, technical decisions, and lessons learned in a [blog post](https://herreraja.github.io/blog/never-an-mvp) on an old personal blog. The article covers the MVP strategy, scaling challenges, and postmortem analysis. Apologies for some grammar mistakes, at the time of writing, ChatGPT didn't exist!
 
-## Download & Try It Out
+## APK
 
 The app is no longer available on the Google Play Store. However, you can download the APK from [an unofficial APK repository](https://apkpure.com/memgramm-english-flashcards-f/com.zancocho.spanglishcards/download).
 
